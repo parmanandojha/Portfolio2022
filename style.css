@@ -270,6 +270,9 @@
     .c-nav_work{
        flex-direction: column;
     }
+    .c-nav_work-2{
+      padding: 2% 0;
+    }
     main{
         height: 180vw;
     }
