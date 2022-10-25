@@ -313,13 +313,13 @@
     }
     .c-title-description-part-1{
         margin-top: 8% ;
-        margin-right: 2%;
     }
     .c-title-description-part-2{
         margin-top: 8%;
     }
     .c-title-description-part-2-descp-1{
       font-size: calc(0.8vw + 10px);
+      margin-right: 2%;
     }
    
     .c-title-description-part-2-descp-2{
