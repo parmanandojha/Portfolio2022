@@ -285,6 +285,9 @@
     .c-nav_work{
        flex-direction: column;
     }
+    .c-service-heading{
+      font-size: calc(0.5vw + 10px);
+    }
     .c-nav_work-2{
       padding: 8% 0;
     }
