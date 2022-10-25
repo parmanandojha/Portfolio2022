@@ -14,7 +14,7 @@
     display: none;
   }
   body, html {
-    font-family: Font, Arial, Helvetica, sans-serif;
+    font-family: Font;
     display: block;
     overflow-x: hidden !important;
     text-rendering: optimizeLegibility;
