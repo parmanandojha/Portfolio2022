@@ -21,6 +21,10 @@
     background-color:#ece9dd !important;
     text-decoration: none;
   }
+  a{
+    font-family: url(font/PPNeueMontreal-Regular.woff);
+    color: #222222;
+  }
   
   .c-loader {
     position: fixed;
