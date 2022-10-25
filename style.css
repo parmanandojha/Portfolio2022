@@ -14,6 +14,8 @@
     display: none;
   }
   body, html {
+    font-family: url(./Font/PPNeueMontreal-Regular.ttf);
+    font-family: url(./Font/PPNeueMontreal-Regular.otf);
     font-family: url(./Font/PPNeueMontreal-Regular.woff);
     display: block;
     overflow-x: hidden !important;
