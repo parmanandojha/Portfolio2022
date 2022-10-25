@@ -1,6 +1,6 @@
 @font-face {
     font-family: NeueMontreal;
-    src: url(./Font/PPNeueMontreal-Regular.woff) format("woff");
+    src: url(./Font/PPNeueMontreal-Regular.woff);
     color: #222222;
     line-height: normal;
     font-weight: 400;
