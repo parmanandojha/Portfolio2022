@@ -212,6 +212,7 @@
   }
   .c-achievements-description{
     padding: 2% 0; 
+    font-size:calc(0.8vw + 10px) ;
   }
   .c-achievements{
     display: flex;
