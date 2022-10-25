@@ -317,6 +317,13 @@
     .c-title-description-part-2{
         margin-top: 8%;
     }
+    .c-title-description-part-2-descp-1{
+      font-size: calc(0.8vw + 10px);
+    }
+   
+    .c-title-description-part-2-descp-2{
+       font-size: calc(0.8vw + 10px);
+     }
     .c-title-description-part-2-descp-3{
         display: none;
     }
