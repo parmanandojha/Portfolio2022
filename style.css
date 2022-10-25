@@ -251,8 +251,13 @@
 }
 
 .c-contact-title img{
-height: 150px;
+  display: none;
 }
+
+.c-contact-title :hover img{
+  display: block;
+}
+
   /*--------Contact--------*/
   
   .c-footer{
