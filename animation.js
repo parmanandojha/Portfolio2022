@@ -28,6 +28,7 @@ imagesLoaded(images).on('progress', updateProgress).on('always', showDemo);
 
 
 const myText = new SplitType('#j-hero')
+ 
 
 gsap.to('.char', {
     y: 0,
