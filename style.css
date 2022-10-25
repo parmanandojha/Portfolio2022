@@ -108,7 +108,7 @@
      flex-direction: column;
  }
  .c-title{
-     margin-top: 16%;
+     margin-top: 14%;
      display: flex;
      justify-content: center;
  }
@@ -289,7 +289,7 @@
         margin-top: 8% ;
     }
     .c-title-description-part-2{
-        margin-top: 12%;
+        margin-top: 8%;
     }
     .c-title-description-part-2-descp-3{
         display: none;
