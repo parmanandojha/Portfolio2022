@@ -135,18 +135,18 @@
      margin-top: 2%;
  }
  .c-part-40 h2{
-    font-size: calc(0.8vw + 10px);
+    font-size: calc(2vw + 10px);
  }
  .c-title-description-part-2-descp-1{
-   font-size: calc(0.2vw + 10px);
+   font-size: calc(0.5vw + 10px);
  }
 
  .c-title-description-part-2-descp-2{
-    font-size: calc(0.2vw + 10px);
+    font-size: calc(0.5vw + 10px);
   }
 
   .c-title-description-part-2-descp-3{
-    font-size: calc(0.2vw + 10px);
+    font-size: calc(0.5vw + 10px);
   }
   /*--------Services--------*/ 
 .c-service-row{
