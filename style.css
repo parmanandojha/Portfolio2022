@@ -204,7 +204,7 @@
 .c-achievements{
     display: flex;
     flex-direction: row;
-    padding: 2% 0;
+    padding: 1% 0;
 }
 .c-achievements-title{
     display: flex;
