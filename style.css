@@ -277,7 +277,7 @@
         margin-top: 100%;
     }
     .c-title .c-hero-title{
-        font-size: calc(12vw + 10px);
+        font-size: calc(10vw + 10px);
     }
     .c-title-description-part-1{
         margin-top: 8% ;
@@ -289,7 +289,7 @@
         display: none;
     }
     .c-contact-section{
-        height: 150vw;
+        height: 200vw;
         display: flex;
         justify-content: center;
         flex-direction: column;
