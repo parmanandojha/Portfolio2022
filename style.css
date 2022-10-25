@@ -153,6 +153,9 @@
  .c-part-40 h2{
     font-size: calc(2vw + 10px);
  }
+ .c-part-40 img{
+  flex: 40%;
+ }
  .c-title-description-part-2-descp-1{
    font-size: calc(0.2vw + 10px);
  }
