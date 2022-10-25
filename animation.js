@@ -50,6 +50,7 @@ for(let i=0; i <splitText.length; i++ ){
 let char = 0;
 let timer =setInterval(onTick, 50);
 
+
 function onTrick(){
   const span = text.querySelector('#span')[char];
   span.classList.add('fade');
