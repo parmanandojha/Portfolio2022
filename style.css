@@ -249,6 +249,10 @@
 .c-credit-space{
  padding-top: 8%;
 }
+
+.c-mail-image{
+  display: none;
+}
   /*--------Contact--------*/
   
   .c-footer{
