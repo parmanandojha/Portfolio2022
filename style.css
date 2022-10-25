@@ -318,6 +318,9 @@
       text-align: justify !important;
       padding: 4% 0;
   }
+  .c-achievements{
+    padding: 6% 0;  
+  }
     .c-contact-section{
         height: 200vw;
       }
