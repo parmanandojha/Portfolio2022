@@ -20,6 +20,7 @@
     text-rendering: optimizeLegibility;
     background-color:#ece9dd !important;
     text-decoration: none;
+    position: relative;
   }
   .c-contct-social a{
     font-family: url(font/PPNeueMontreal-Regular.woff);
@@ -87,6 +88,11 @@
 }
 .c-heading{
     font-size: calc(8vw + 10px);
+}
+
+.c-hero-content{
+   position: fixed;
+   z-index: -20;
 }
  /*--------Nav--------*/
 .c-nav{
