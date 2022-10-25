@@ -1,5 +1,5 @@
 @font-face {
-    font-family: NeueMontreal;
+    font-family: font;
     src: url(./Font/PPNeueMontreal-Regular.woff);
     color: #222222;
     line-height: normal;
@@ -14,7 +14,7 @@
     display: none;
   }
   body, html {
-    font-family: NeueMontreal;
+    font-family: font;
     display: block;
     overflow-x: hidden !important;
     text-rendering: optimizeLegibility;
