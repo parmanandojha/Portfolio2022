@@ -35,3 +35,31 @@ gsap.to('.char', {
     delay: 0.50,
     duration: .1
 })
+
+const text = document.querySelector("#j-hero");
+const strText =text.textContent;
+const splitText = splitText.split("");
+
+text.textContent = "";
+
+for(let i=0; i <splitText.length; i++ ){
+  text.innerHTML+="<span>" +splitText[i]+"</span>";
+}
+
+let char = 0;
+let timer =setInterval(onTick, 50);
+
+function onTrick(){
+  const span = text.querySelectorAll('span')[char];
+  span.classList.add('fade');
+  char++;
+  if(char == splitText.length){
+    complete();
+    return;
+  }
+}
+
+function complete(){
+  clearInterval(timer);
+  timer=null;
+}

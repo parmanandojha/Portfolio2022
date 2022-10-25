@@ -328,3 +328,14 @@
         font-size: calc(10vw + 10px);
     }
 }
+
+
+
+span{
+  opacity: 0;
+  transition: all 0.4s ease;
+}
+
+span.fade{
+  color: #ff7272;
+}
