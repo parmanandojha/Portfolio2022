@@ -51,7 +51,7 @@ let char = 0;
 let timer =setInterval(onTick, 50);
 
 function onTrick(){
-  const span = text.querySelectorAll('span')[char];
+  const span = text.querySelector('#span')[char];
   span.classList.add('fade');
   char++;
   if(char == splitText.length){
