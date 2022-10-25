@@ -293,13 +293,13 @@
       padding: 8% 0;
     }
     main{
-        height: 180vw;
+        height: 170vw;
     }
     .c-main_hero{
         align-self: flex-end;
     }
     .c-title{
-        margin-top: 80%;
+        margin-top: 72%;
     }
     .c-title .c-hero-title{
         font-size: calc(12vw + 8px);
