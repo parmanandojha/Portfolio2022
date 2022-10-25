@@ -291,9 +291,10 @@ main{
   margin-top: 48%;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 .c-title .c-hero-title{
-  font-size: calc(12vw + 10px);
+  font-size: calc(13vw + 10px);
 }
 }
 
