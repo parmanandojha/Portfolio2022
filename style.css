@@ -26,6 +26,11 @@
     color:#ece9dd ;
     text-decoration: none;
   }
+  .c-contact-space a{
+    font-family: url(font/PPNeueMontreal-Regular.woff);
+    color:#ece9dd ;
+    text-decoration: none;
+  }
   
   .c-loader {
     position: fixed;
