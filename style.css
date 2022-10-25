@@ -253,6 +253,9 @@
 .c-mail-image{
   display: none;
 }
+.c-mail-image :hover{
+  display: block;
+}
   /*--------Contact--------*/
   
   .c-footer{
