@@ -108,7 +108,7 @@
      flex-direction: column;
  }
  .c-title{
-     margin-top: 18%;
+     margin-top: 16%;
      display: flex;
      justify-content: center;
  }
@@ -280,7 +280,7 @@
         align-self: flex-end;
     }
     .c-title{
-        margin-top: 100%;
+        margin-top: 90%;
     }
     .c-title .c-hero-title{
         font-size: calc(11vw + 10px);
