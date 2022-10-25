@@ -297,6 +297,9 @@ main{
 .c-title .c-hero-title{
   font-size: calc(13vw + 10px);
 }
+.c-contact-section{
+  height: 150vw;
+}
 }
 
 @media only screen and (max-width: 475px) {
