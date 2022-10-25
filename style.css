@@ -211,14 +211,14 @@
     justify-content: center;   
   }
   .c-achievements-description{
-    padding: 8% 0; 
+    padding: 4% 0; 
     font-size:calc(0.8vw + 10px) ;
   }
   .c-achievements{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 1% 0;  
+    padding: 6% 0;  
   }
   
   /*--------Contact--------*/
