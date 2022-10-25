@@ -126,6 +126,7 @@
      margin-top: 14%;
      display: flex;
      justify-content: center;
+     flex-direction: column;
  }
  .c-title .c-hero-title{
      font-size: calc(14vw + 10px);
