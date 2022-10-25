@@ -130,6 +130,7 @@
  }
  .c-title .c-hero-title{
      font-size: calc(14vw + 10px);
+     font-weight: 400;
      clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
      line-height: 90%;
  }
