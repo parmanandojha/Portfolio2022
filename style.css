@@ -306,6 +306,11 @@
     .c-title-description-part-2-descp-3{
         display: none;
     }
+    .c-about-para{
+      font-size: calc(4vw + 10px);
+      text-align: justify !important;
+      line-height: normal;
+  }
     .c-contact-section{
         height: 200vw;
       }
