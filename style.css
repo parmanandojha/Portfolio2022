@@ -330,11 +330,3 @@
 }
 
 
-
-#span{
-  transition: all 0.4s ease;
-}
-
-#span .fade{
-  color: #ff7272;
-}
