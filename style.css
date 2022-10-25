@@ -250,9 +250,6 @@
  padding-top: 8%;
 }
 
-.c-mail-image img{
-  display: none;
-}
 .c-mail-image img :hover{
   display: block;
 }
