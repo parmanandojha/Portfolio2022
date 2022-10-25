@@ -90,10 +90,7 @@
     font-size: calc(8vw + 10px);
 }
 
-.c-hero-content{
-   position: fixed;
-   height: 900px;
-}
+
  /*--------Nav--------*/
 .c-nav{
      display: flex;
