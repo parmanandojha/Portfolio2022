@@ -251,7 +251,7 @@
 }
 
 .c-mail-image img{
-  display: hidden;
+  display: none;
 }
 .c-mail-image img :hover{
   display: block;
