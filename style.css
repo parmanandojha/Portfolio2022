@@ -262,10 +262,10 @@
         margin: 16% 0;
     }
     .c-nav_contact h5{
-        font-size: calc(0.2vw + 10px);
+        font-size: calc(0.5vw + 10px);
     }
     .c-nav_work h5{
-       font-size: calc(0.2vw + 10px);
+       font-size: calc(0.5vw + 10px);
     } 
     .c-nav_work{
        flex-direction: column;
