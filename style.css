@@ -160,6 +160,9 @@
   .c-title-description-part-2-descp-3{
     font-size: calc(0.5vw + 10px);
   }
+  .c-service-heading{
+    font-size: calc(0.5vw + 10px);
+  }
   /*--------Services--------*/ 
 .c-service-row{
     display: flex;
