@@ -259,7 +259,7 @@
 }
 
 .c-contact-title:hover img{
-  display: block;
+  display: block !important; 
 }
 
   /*--------Contact--------*/
