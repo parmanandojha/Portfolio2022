@@ -250,10 +250,10 @@
  padding-top: 8%;
 }
 
-.c-mail-image{
+.c-mail-image img{
   display: none;
 }
-.c-mail-image :hover{
+.c-mail-image :hover img{
   display: block;
 }
   /*--------Contact--------*/
