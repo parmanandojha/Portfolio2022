@@ -254,7 +254,7 @@
   display: none;
 }
 
-.c-contact-title img :hover{
+.c-contact-title:hover img{
   display: block;
 }
 
