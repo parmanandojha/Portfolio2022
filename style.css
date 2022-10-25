@@ -309,7 +309,7 @@
     .c-about-para{
       font-size: calc(4vw + 10px);
       text-align: justify !important;
-      line-height: normal;
+      padding: 4% 0;
   }
     .c-contact-section{
         height: 200vw;
