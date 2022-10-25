@@ -293,10 +293,6 @@
     }
     .c-contact-section{
         height: 200vw;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        align-items: center;
       }
       .c-heading{
         font-size: calc(10vw + 10px);
