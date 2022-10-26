@@ -355,7 +355,7 @@ height: 750px;
     font-size: 14px;
   }
   .c-service-text {
-    font-size: calc(8vw + 10px);
+    font-size: 40px;
     line-height: normal;
   }
   .c-nav_work-2{
