@@ -152,7 +152,7 @@ main{
    margin-top: 2%;
 }
 .c-part-40 h2{
-  font-size: 48px;
+  font-size: 32px;
 }
 
 .c-title-description-part-2-descp-1{
@@ -179,7 +179,7 @@ main{
   line-height: normal;
   margin-right: 1%;
   color: #ece9dd00;
-  -webkit-text-stroke: 0.1px black;
+  -webkit-text-stroke: 0.5px black;
 }
 .c-text-color{
   color: #222222;
@@ -226,7 +226,12 @@ main{
   justify-content: space-between;
   padding: 2% 0;  
 }
-
+.c-achievements-descr-1{
+  flex-direction: 60%;
+}
+.c-achievements-descr-2{
+  flex-direction: 40%;
+}
 /*--------Contact--------*/
 .c-color{
  background-color: #222222;
@@ -323,6 +328,9 @@ height: 750px;
    }    
    .c-space-section{
       margin: 32% 0;
+  }
+  .c-loader-content h3{
+    font-size: 48px;
   }
 
 .c-part-40 h2{
