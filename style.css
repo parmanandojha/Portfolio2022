@@ -181,7 +181,7 @@ main{
   line-height: normal;
   margin-right: 1%;
   color: #ece9dd;
-  -webkit-text-stroke: 0.01px black;
+  -webkit-text-stroke: 0.5px black;
 }
 .c-text-color{
   color: #222222;
