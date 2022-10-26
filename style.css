@@ -227,10 +227,10 @@ main{
   padding: 2% 0;  
 }
 .c-achievements-descr-1{
-  flex-direction: 60%;
+  flex: 60%;
 }
 .c-achievements-descr-2{
-  flex-direction: 40%;
+  flex: 40%;
 }
 /*--------Contact--------*/
 .c-color{
