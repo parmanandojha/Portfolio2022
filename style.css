@@ -18,7 +18,7 @@ body, html {
   display: block;
   overflow-x: hidden !important;
   text-rendering: optimizeLegibility;
-  background-color:#ece9dd !important;
+  background-color:#fff!important;
   text-decoration: none;
   position: relative;
 }
@@ -51,12 +51,12 @@ body, html {
 
 .c-contct-social a{
   font-family: url(font/PPNeueMontreal-Regular.woff);
-  color:#ece9dd ;
+  color:#fff;
   text-decoration: none;
 }
 .c-contact-space a{
   font-family: url(font/PPNeueMontreal-Regular.woff);
-  color:#ece9dd ;
+  color:#fff;
   text-decoration: none;
 }
 
@@ -122,8 +122,6 @@ main{
    flex-direction: column;
    justify-content: flex-end;
 }
-.c-main_hero{
-}
 .c-title{
    margin-top: 8%;
    display: flex;
@@ -181,7 +179,7 @@ main{
   font-size: calc(8vw + 10px);
   line-height: normal;
   margin-right: 1%;
-  color: #ece9dd;
+  color: #ece9dd00;
   -webkit-text-stroke: 0.1px black;
 }
 .c-text-color{
@@ -231,7 +229,7 @@ main{
 /*--------Contact--------*/
 .c-color{
  background-color: #222222;
- color: #ece9dd;
+ color: #fff;
  text-align: center;
 }
 .c-contact-section{
