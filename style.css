@@ -231,6 +231,7 @@ main{
 }
 .c-achievements-descr-2{
   flex: 40%;
+  text-align-last: right;
 }
 /*--------Contact--------*/
 .c-color{
