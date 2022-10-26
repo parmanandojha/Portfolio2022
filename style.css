@@ -290,12 +290,6 @@ body, html {
 .c-space-section{
   margin: 16% 0;
 }
-main{
-height: 900px;
-}
-.c-main_hero{
-align-self: flex-end;
-}
 .c-title{
 margin-top: 48%;
 display: flex;
@@ -339,12 +333,7 @@ height: 750px;
   .c-text {
     -webkit-text-stroke: 0.5px black;
   }
-  main{
-      height: 170vw;
-  }
-  .c-main_hero{
-      align-self: flex-end;
-  }
+  
   .c-title{
       margin-top: 48%;
       text-align: center;
