@@ -354,6 +354,10 @@ height: 750px;
   .c-service-heading{
     font-size: 14px;
   }
+  .c-service-text {
+    font-size: calc(8vw + 10px);
+    line-height: normal;
+  }
   .c-nav_work-2{
     padding: 8% 0;
   }
