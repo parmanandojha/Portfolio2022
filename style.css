@@ -181,7 +181,7 @@ main{
   line-height: normal;
   margin-right: 1%;
   color: #ece9dd;
-  -webkit-text-stroke: 0.5px black;
+  -webkit-text-stroke: 0.1px black;
 }
 .c-text-color{
   color: #222222;
@@ -334,6 +334,9 @@ height: 750px;
   }
   .c-nav_work-2{
     padding: 8% 0;
+  }
+  .c-text {
+    -webkit-text-stroke: 0.5px black;
   }
   main{
       height: 170vw;
