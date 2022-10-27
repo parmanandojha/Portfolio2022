@@ -5,16 +5,23 @@
   line-height: normal;
   font-weight: 400;
 }
+@font-face {
+  font-family: 'Pangram Pangram';
+  src: url(./Font/PPNeueMontreal-Regular.woff) format('truetype');
+  font-weight: 400;
+  color: #222222;
+  line-height: normal;
+}
 *{
   box-sizing: border-box;
   margin: 0;
-  font-family: font;
+  font-family: Pangram Pangram;
 }
 meta {
   display: none;
 }
 body, html {
-  font-family: font;
+  font-family: Pangram Pangram;
   display: block;
   overflow-x: hidden !important;
   text-rendering: optimizeLegibility;
