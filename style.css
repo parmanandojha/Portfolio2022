@@ -292,12 +292,12 @@ padding-top: 8%;
 
 @media only screen and (max-width: 1400px) {
   .c-title .c-hero-title{
-    font-size: calc(14.1vw + 10px);
+    font-size: calc(13.9vw + 10px);
     }
 }
 @media only screen and (max-width: 1080px) {
   .c-title .c-hero-title{
-    font-size: calc(13.7vw + 10px);
+    font-size: calc(13.5vw + 10px);
     }
 }
 
