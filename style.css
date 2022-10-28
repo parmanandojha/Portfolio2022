@@ -137,7 +137,7 @@ main{
    text-align: center;
 }
 .c-title .c-hero-title{
-   font-size: calc(14.32vw + 10px);
+   font-size: calc(14.3vw + 10px);
    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
    line-height: 90%;
 }
